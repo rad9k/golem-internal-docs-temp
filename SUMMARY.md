@@ -13,9 +13,7 @@
 
 ## golem-net
 
----
-
-* [Golem net](golem-net-1.md)
+* [Golem net](golem-net/golem-net-1.md)
 
 ## Demand&Offer Specification Language
 
