@@ -9,7 +9,6 @@
 ## architecture
 
 * [Golem Architecture Principles](architecture/untitled.md)
-* [Golem App API - discussions](architecture/golem-app-api-discussions.md)
 
 ## golem-net
 
